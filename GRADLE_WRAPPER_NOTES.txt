@@ -1,0 +1,2 @@
+O GitHub Actions deste projeto usa Gradle via gradle/actions/setup-gradle.
+O workflow não depende de um gradle-wrapper.jar previamente enviado.
